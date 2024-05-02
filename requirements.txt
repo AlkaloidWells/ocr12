@@ -1,2 +1,4 @@
+pytorch
+torchvision
 opencv-python
 numpy
